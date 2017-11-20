@@ -9,6 +9,7 @@ public class AppTest {
 
 		App obj = new App();
 		Assert.assertEquals(36, obj.generateUniqueKey().length());
+		System.out.println("******* Completed running Junits via Git polling *******");
 
 	}
 }
