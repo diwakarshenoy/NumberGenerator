@@ -12,7 +12,7 @@ public class App
     public static void main( String[] args )
     {
         App obj = new App();
-        System.out.println("After update: Unique ID : " + obj.generateUniqueKey());
+        System.out.println("git changes: After update: Unique ID : " + obj.generateUniqueKey());
     }
 
     public String generateUniqueKey(){
